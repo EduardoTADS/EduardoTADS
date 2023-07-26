@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hey there, thi's my Github profile.
 ## My name is Edward and my nickname is "Edu"!
 
 - 🔭 I’m currently working at Khnum Business Automation System
